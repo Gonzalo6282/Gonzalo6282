@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gonzalo6282
-- 👀 I’m interested in anything python!
-- 🌱 I’m currently learning python and AWS cloud,
+- 👀 I’m interested in anything web!
+- 🌱 I’m currently learning Javascript,React, Python and AWS cloud,
 - 💞️ I’m looking to collaborate on anything Python.
 - 📫 How to reach me gonzalo6282@gmail.com
 
